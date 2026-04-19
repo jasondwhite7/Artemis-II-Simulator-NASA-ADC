@@ -35,7 +35,7 @@ Unity, C#
 | Name | Role | GitHub |
 |------|------|--------|
 | Jason | Lead Programmer | @jasondwhite7 |
-| ... | ... | @... |
+| Madeline | Front-End Engineer | @mdbruns3 |
 
 ## Presented At
 - NASA Johnson Space Center, Spring 2025 — to NASA workforce, leadership, and the public.

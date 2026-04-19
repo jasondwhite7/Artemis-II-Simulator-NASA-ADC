@@ -29,7 +29,7 @@ Built for the NASA App Development Challenge by a team of 5.
 Unity, C#
 
 ## Video Presentation
-[![Artemis II Mission Simulator Demo](https://img.youtube.com/vi/kYOU_ufs9sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=kYOU_ufs9sl)
+[![Artemis II Mission Simulator Demo](https://img.youtube.com/vi/kYOU_ufs9sI/maxresdefault.jpg)](https://www.youtube.com/watch?v=kYOU_ufs9sI)
 
 ## Team
 | Name | Role | GitHub |
